@@ -13,6 +13,6 @@
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Max-KCS-Eriksson&theme=github_dark_dimmed&show_icons=true&rank_icon=github"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-KCS-Eriksson&layout=compact&theme=github_dark_dimmed"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Max-KCS-Eriksson&theme=github_dark_dimmed&line_height=30&show_icons=true&rank_icon=github&hide=stars,contribs"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-KCS-Eriksson&theme=github_dark_dimmed&layout=compact"/></a>
 </div>
