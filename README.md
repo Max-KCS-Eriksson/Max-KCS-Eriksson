@@ -1,13 +1,41 @@
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://spring.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
-<a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/><a/>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+# Max Eriksson
+
+### Backend Developer | Java & Spring | REST APIs
+
+Building scalable and maintainable systems with a focus on modular design and clean architecture.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-1E1E1E?style=flat-square&logo=openjdk&logoColor=FF991C)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E1E1E?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Python](https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-1E1E1E?style=flat-square&logo=django&logoColor=2BA977)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=flat-square&logo=postgresql&logoColor=336791)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1E1E1E?style=flat-square&logo=react&logoColor=61DAFB)
+
+### DevOps & Infrastructure
+![Bash](https://img.shields.io/badge/Bash-1E1E1E?style=flat-square&logo=gnu-bash&logoColor=4EAA25)
+![Linux](https://img.shields.io/badge/Linux-1E1E1E?style=flat-square&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E1E1E?style=flat-square&logo=githubactions&logoColor=2088FF)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Max-KCS-Eriksson&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-KCS-Eriksson&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+- 📍 Stockholm, Sweden
+- 💼 [LinkedIn](https://www.linkedin.com/in/max-e-07654b293/)
+- 🌐 [Portfolio](https://maxeriksson.com/portfolio/)
