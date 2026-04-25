@@ -1,5 +1,3 @@
-# Max Eriksson
-
 ### Backend Developer | Java & Spring | REST APIs
 
 Building scalable and maintainable systems with a focus on modular design and clean architecture.
