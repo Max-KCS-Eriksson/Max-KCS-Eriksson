@@ -35,5 +35,5 @@ Building scalable and maintainable systems with a focus on modular design and cl
 ## 🤝 Connect With Me
 
 - 📍 Stockholm, Sweden
-- 💼 [LinkedIn](https://www.linkedin.com/in/max-e-07654b293/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/max-kcs-eriksson/)
 - 🌐 [Portfolio](https://maxeriksson.com/portfolio/)
