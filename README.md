@@ -1,4 +1,4 @@
-Backend-oriented developer building modular systems and automating repetitive workflows.
+Backend-oriented developer building practical software solutions and automating repetitive workflows.
 
 ![Java](https://img.shields.io/badge/Java-1E1E1E?style=flat-square&logo=openjdk&logoColor=FF991C)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E1E1E?style=flat-square&logo=springboot&logoColor=6DB33F)
